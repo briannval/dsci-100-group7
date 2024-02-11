@@ -4,3 +4,4 @@
 - Brian Adhitya
 - Brian Ko
 - Wyatt Howell
+- Nishanth Selvakumar
